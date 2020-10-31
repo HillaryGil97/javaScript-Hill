@@ -1,6 +1,4 @@
-/*
- Existen 3 tipos de varaiables en javascript
-*/
+// Existen 3 tipos de varaiables en javascript
 
 const PI = 3.1416  //const declara constantes, es decir variables que jamás cambiaran de valor en todo el programa.
 var b = 'Hillary' //var declara variables globales que podran ser usadas en cualquier parte del codigo.
@@ -10,8 +8,8 @@ let a = 'Anahi' //let declara varaibles locales que solo son usadas en sus modul
 //hacer uso de int, float, string o array al principio de la declaración de variables.
 
 var name = 'Dana'
-let name2 = 'Edwin'
-const NAME3 = 'Hillary' // por buenas practicas los nombres de constantes se ponen en mayusculas.
+let name2 = 'Edwin' // por buenas practicas los nombres de constantes se ponen en mayusculas y 
+const NAME3 = 'Hillary' // las demás variables se designan con algo llamado CamelCase (poner en mayuscula el inicio de una parte de la varisble por ejemplo horadeldia seria horaDelDia)
 
 function sayHello(){
     let name = 'Hill'
