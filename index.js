@@ -20,4 +20,3 @@ function sayHello(){
 sayHello()
 console.log(`Nombre 1: ${name}`)//esta forma de mandar a imprimir en consola se le conoce como 
 console.log(`Nombre 2: ${name2}`) //        TEMPLATE LITERAL
-
